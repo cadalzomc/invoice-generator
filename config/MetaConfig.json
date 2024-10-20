@@ -1,0 +1,17 @@
+{
+    "name": "MCE",
+    "title": "Invoice Generator",
+    "description": "",
+    "link": {
+      "icon": "https://cadalzomc.s3.ap-southeast-2.amazonaws.com/mce/mce-logo.png",
+      "logo": "",
+      "brand": ""
+    },
+    "author": [
+      {
+        "name": "Meigo Cadalzo",
+        "url": "https://cadalzomeigo.vercel.app"
+      }
+    ]
+  }
+  
