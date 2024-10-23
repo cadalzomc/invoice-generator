@@ -1,12 +1,12 @@
 import React from "react";
-import { NextUIProvider } from "@nextui-org/react";
 import { Header } from "@/app/_components/ui";
+import { ChakraUIProviders } from "@/app/_lib/utils";
 
 export const LayoutMain = ({ children }: { children: React.ReactNode }) => {
   return (
-    <NextUIProvider>
+    <ChakraUIProviders>
       <Header />
       {children}
-    </NextUIProvider>
+    </ChakraUIProviders>
   );
 };
